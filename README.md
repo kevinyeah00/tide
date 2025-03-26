@@ -55,7 +55,7 @@ The parameters for the tide serve command are as follows:
 
 - Runtime (code internal configuration): you need to adjust the runtime estimate under `pkg/dev` based on the runtime of the load under certain resource constraints to achieve better results.
 
-### 例子
+### Example
 
 There are three devices with the following configurations and roles in the table below:
 
